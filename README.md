@@ -1,7 +1,7 @@
 # Estudio de Elementos Web usando Robot Framework
 ### Autor: Francisco Rodríguez
 
-Este proyecto tiene como objetivo estudiar diferentes elementos web en una página utilizando Robot Framework. El proyecto se desarrolla usando PyCharm como entorno de desarrollo integrado.
+Este proyecto tiene como objetivo estudiar diferentes elementos web presentes en una página utilizando Robot Framework. El proyecto se desarrolla usando PyCharm como entorno de desarrollo integrado.
 
 ## Requisitos Previos
 
