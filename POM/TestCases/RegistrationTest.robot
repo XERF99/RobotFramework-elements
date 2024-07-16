@@ -3,7 +3,7 @@ Library    SeleniumLibrary
 Resource    ../Resources/RegistrationKeywords.robot
 
 *** Variables ***
-${Browser}    chrome
+${Browser}    headlesschrome
 ${SiteUrl}    https://demo.guru99.com/test/newtours/index.php
 
 *** Test Cases ***
